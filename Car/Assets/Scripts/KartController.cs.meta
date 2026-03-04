@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 401b2475cf79ef94bba61fea0de9b469
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _kartConfig: {fileID: 11400000, guid: 651d931da9510944c935041750f9d252, type: 2}
+  - _frontLeftWheel: {instanceID: 0}
+  - _frontRightWheel: {instanceID: 0}
+  - _rearLeftWheel: {instanceID: 0}
+  - _rearRightWheel: {instanceID: 0}
+  - _playerInput: {fileID: -944628639613478452, guid: 2573dc784afcad24e8d7bc029034e5ca, type: 3}
+  - _engine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
